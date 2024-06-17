@@ -16,3 +16,4 @@
 --platform=linux/arm/v7 p3terx/kms
 --platform=linux/arm64 p3terx/kms
 --platform=linux/arm zyclonite/zerotier
+--platform=linux/arm/v7 zyclonite/zerotier
