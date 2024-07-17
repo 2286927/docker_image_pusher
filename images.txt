@@ -18,3 +18,4 @@
 --platform=linux/arm zyclonite/zerotier
 --platform=linux/arm/v7 zyclonite/zerotier
 --platform=linux/arm64 zyclonite/zerotier
+--platform=linux/arm64 hezhijie0327/adguardhome
