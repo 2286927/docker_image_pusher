@@ -20,3 +20,5 @@
 --platform=linux/arm64 zyclonite/zerotier
 --platform=linux/arm/v7 summary/portainer-ce
 --platform=linux/arm64 summary/portainer-ce
+--platform=linux/arm/v7 palw3ey/ye3ftp
+--platform=linux/arm64 palw3ey/ye3ftp
