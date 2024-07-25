@@ -22,5 +22,5 @@
 --platform=linux/arm64 summary/portainer-ce
 --platform=linux/arm/v7 palw3ey/ye3ftp
 --platform=linux/arm64 palw3ey/ye3ftp
---platform=linux/arm/v7 xiaoyao9184/docker-shinobi
---platform=linux/arm64 xiaoyao9184/docker-shinobi
+--platform=linux/arm/v7 wghaos/shinobi
+--platform=linux/arm64 wghaos/shinobi
