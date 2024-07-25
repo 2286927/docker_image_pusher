@@ -24,3 +24,5 @@
 --platform=linux/arm64 palw3ey/ye3ftp
 --platform=linux/arm/v7 wghaos/shinobi
 --platform=linux/arm64 wghaos/shinobi
+--platform=linux/arm/v7 jeessy/ddns-go
+--platform=linux/arm64 jeessy/ddns-go
