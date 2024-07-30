@@ -5,7 +5,7 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 --platform=linux/arm/v7 adguard/adguardhome
---platform=linux/arm64 adguard/adguardhome
+#--platform=linux/arm64 adguard/adguardhome
 --platform=linux/arm64 hezhijie0327/adguardhome
 --platform=linux/arm/v7 6053537/portainer-ce
 --platform=linux/arm64 6053537/portainer-ce
@@ -22,7 +22,9 @@
 --platform=linux/arm64 summary/portainer-ce
 --platform=linux/arm/v7 palw3ey/ye3ftp
 --platform=linux/arm64 palw3ey/ye3ftp
---platform=linux/arm/v7 wghaos/shinobi
---platform=linux/arm64 wghaos/shinobi
+# --platform=linux/arm/v7 wghaos/shinobi
+# --platform=linux/arm64 wghaos/shinobi
 --platform=linux/arm/v7 jeessy/ddns-go
 --platform=linux/arm64 jeessy/ddns-go
+--platform=linux/arm/v7 xiaoyao9184/docker-shinobi
+--platform=linux/arm64 xiaoyao9184/docker-shinobi
