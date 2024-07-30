@@ -29,3 +29,4 @@
 --platform=linux/arm/v7 xiaoyao9184/docker-shinobi:8f0dd984-no-db
 --platform=linux/arm64 xiaoyao9184/docker-shinobi:8f0dd984-no-db
 sgarzarella/zoneminder-armhf:latest
+kdedesign/mysql-server:latest
