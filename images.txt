@@ -30,3 +30,4 @@
 --platform=linux/arm64 xiaoyao9184/docker-shinobi:dev
 sgarzarella/zoneminder-armhf:latest
 kdedesign/mysql-server:latest
+# xiaoyao9184/docker-shinobi:dev-arm32v7
