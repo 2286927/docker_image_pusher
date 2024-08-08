@@ -26,7 +26,8 @@
 # --platform=linux/arm64 wghaos/shinobi
 --platform=linux/arm/v7 jeessy/ddns-go
 --platform=linux/arm64 jeessy/ddns-go
---platform=linux/arm/v7 xiaoyao9184/docker-shinobi:dev
+# --platform=linux/arm/v7 xiaoyao9184/docker-shinobi:dev
+--platform=linux/arm/v7 xiaoyao9184/docker-shinobi:8f0dd984-arm32v7
 --platform=linux/arm64 xiaoyao9184/docker-shinobi:dev
 sgarzarella/zoneminder-armhf:latest
 kdedesign/mysql-server:latest
