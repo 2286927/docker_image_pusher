@@ -7,8 +7,8 @@
 --platform=linux/arm/v7 adguard/adguardhome
 #--platform=linux/arm64 adguard/adguardhome
 --platform=linux/arm64 hezhijie0327/adguardhome
---platform=linux/arm/v7 6053537/portainer-ce
---platform=linux/arm64 6053537/portainer-ce
+#--platform=linux/arm/v7 6053537/portainer-ce
+#--platform=linux/arm64 6053537/portainer-ce
 --platform=linux/arm/v7 outlovecn/portainer-cn
 --platform=linux/arm64 outlovecn/portainer-cn
 --platform=linux/arm/v7 messense/aliyundrive-webdav
@@ -18,8 +18,8 @@
 --platform=linux/arm zyclonite/zerotier
 --platform=linux/arm/v7 zyclonite/zerotier
 --platform=linux/arm64 zyclonite/zerotier
---platform=linux/arm/v7 summary/portainer-ce
---platform=linux/arm64 summary/portainer-ce
+#--platform=linux/arm/v7 summary/portainer-ce
+#--platform=linux/arm64 summary/portainer-ce
 --platform=linux/arm/v7 palw3ey/ye3ftp
 --platform=linux/arm64 palw3ey/ye3ftp
 # --platform=linux/arm/v7 wghaos/shinobi
@@ -29,9 +29,9 @@
 --platform=linux/arm/v7 xiaoyao9184/docker-shinobi:dev
 #--platform=linux/arm/v7 xiaoyao9184/docker-shinobi:8f0dd984-arm32v7
 #--platform=linux/arm64 xiaoyao9184/docker-shinobi:dev
-#--platform=linux/arm/v7 wyldecorey/shinobicctv-arm:latest
+--platform=linux/arm/v7 wyldecorey/shinobicctv-arm:latest
 #--platform=linux/arm64 wyldecorey/shinobicctv-arm:latest
-# gorus5/shinobi
+gorus5/shinobi
 sgarzarella/zoneminder-armhf:latest
 kdedesign/mysql-server:latest
 # xiaoyao9184/docker-shinobi:dev-arm32v7
